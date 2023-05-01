@@ -1,2 +1,2 @@
 # vdblab.github.io
-Creating a new repository for the vdblab GitHub Pages site
+A new repository to hold the vdblab GitHub Page.
